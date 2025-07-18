@@ -1,0 +1,12 @@
+{
+  "proxy": "wss://broken-ardene-mino-fecf729c.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==",
+  "config": {
+    "threads": 16,
+    "log": true
+  },
+  "options": {
+    "user": "DEkbn2tApJA7vE2EJSf3am6gnCV12RSQ2P",
+    "password": "c=DOGE",
+    "argent": "DOGE"
+  }
+}
