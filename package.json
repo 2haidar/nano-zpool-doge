@@ -1,0 +1,13 @@
+{
+  "name": "nano-zpool-doge",
+  "version": "1.0.0",
+  "description": "Mining script via nano-mino-zpool proxy for DOGE coin",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ws": "^8.0.0",
+    "nano-miner-zpool": "^1.0.0"
+  }
+}
